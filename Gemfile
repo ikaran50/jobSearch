@@ -21,6 +21,9 @@ gem 'jbuilder', '~> 2.7'
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'bootstrap-sass-extras', '~> 0.0.2'
+gem 'devise', '~> 4.2'
+
 
 
 # Reduces boot times through caching; required in config/boot.rb
