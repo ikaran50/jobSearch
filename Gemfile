@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
+gem 'simple_form'
 
 
 
