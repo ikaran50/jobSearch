@@ -22,7 +22,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
 gem 'simple_form'
-
+gem 'bootswatch-rails'
+gem 'jquery-rails'
 
 
 # Reduces boot times through caching; required in config/boot.rb
